@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_blue.xml" value="0.23489583333333333" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_green.xml" value="0.24074074074074073" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_pink.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_purple.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_red.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/circle_yellow.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/gub_delete.xml" value="0.403125" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/gub_faculty.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/gub_gallery.xml" value="0.403125" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_add_teacher.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_delete_notice.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_update_faculty.xml" value="0.11481481481481481" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_update_teacher.xml" value="0.16042780748663102" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_upload_image.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_upload_notice.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/activity_upload_pdf.xml" value="0.1" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/faculty_item_layout.xml" value="0.1320754716981132" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.1477832512315271" />
+        <entry key="..\:/GUMS Admin/app/src/main/res/layout/no_data_found.xml" value="0.18819655521783182" />
+        <entry key="..\:/UMSApp/app/src/main/res/layout/activity_main.xml" value="0.18819655521783182" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

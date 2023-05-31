@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101628494696",
+    "project_id": "gums-3376e",
+    "storage_bucket": "gums-3376e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101628494696:android:21a01119e2cbc8a54dccdd",
+        "android_client_info": {
+          "package_name": "com.example.umsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101628494696-d1ogojh3s6v846asvqd8emlk69l7jqmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPxQ35aMJd95Roo1oQebA5iNAAjRfWtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101628494696-d1ogojh3s6v846asvqd8emlk69l7jqmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
